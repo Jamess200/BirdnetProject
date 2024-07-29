@@ -26,7 +26,7 @@ The main tools for different stages of analysis and processing are provided as J
 - **Time test**:
 
    <span style="display:inline-block; margin-left: 10px;">
-     <a href="n/a">
+     <a href="https://colab.research.google.com/drive/10y8z9R69SYeEwNFV_GL3peqUDjr_fUbY?usp=sharing">
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
    </span> This notebook tests run times by processes random audio files to determin how long audio file of bird songs will take for the BirdNET AI to identify bird species from the bird songs and create the output DataFrame. It measures the efficiency of converting audio files into a usable format using BirdNET.
