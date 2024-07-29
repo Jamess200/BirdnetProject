@@ -29,7 +29,7 @@ The main tools for different stages of analysis and processing are provided as J
      <a href="https://colab.research.google.com/drive/10y8z9R69SYeEwNFV_GL3peqUDjr_fUbY?usp=sharing">
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
-   </span> This notebook tests run times by processes random audio files to determin how long audio file of bird songs will take for the BirdNET AI to identify bird species from the bird songs and create the output DataFrame. It measures the efficiency of converting audio files into a usable format using BirdNET.
+   </span>: This notebook tests run times by processing random audio files to determine how long it takes for the BirdNET AI to identify bird species from the recordings and create the output DataFrame. It also includes an ANOVA analysis to evaluate the variability in processing times across different audio files, measuring the efficiency of converting audio files into a usable format using BirdNET.
 
 - **BirdNET Audio to CSV**:
 
@@ -37,8 +37,8 @@ The main tools for different stages of analysis and processing are provided as J
      <a href="https://colab.research.google.com/drive/1ofIgH6WYTRZxlmmCn-0VmR4ZYu8mSlAA?usp=sharing">
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
-   </span> This notebook is primarily used for processing audio files with BirdNET to extract bird songs into a data CSV format. It serves as the main tool for converting audio inputs into structured data for analysis.
-
+   </span>: This notebook is used for processing audio files with the BirdNET model to extract bird song data into a CSV format. It serves as the primary tool for converting audio inputs into structured data, including information on identified bird species and confidence levels, for further analysis.
+   
 ## Analysing Your Audio Recordings
 To analyse your own audio recordings of bird songs:
 1. **Upload Your Audio File to Google Colab**: 
