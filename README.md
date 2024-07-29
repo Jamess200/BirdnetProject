@@ -19,3 +19,5 @@ First clone the repository to your local machine:
    git clone https://github.com/Jamess200/MyBirdNetTest
    cd birdnet_project
    ```
+
+https://colab.research.google.com/drive/1ofIgH6WYTRZxlmmCn-0VmR4ZYu8mSlAA?usp=sharing
