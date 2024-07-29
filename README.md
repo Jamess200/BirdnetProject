@@ -47,13 +47,13 @@ The main tools for different stages of analysis and processing are provided as J
      </a>
    </span>: This notebook merges multiple CSV files containing bird song data into a single comprehensive dataframe. It adds appropriate columns for enhanced data organisation and analysis. The final dataframe is saved in both CSV and Excel formats, facilitating further data processing and sharing.
 
-- **Data analysis look into accuracy **:
+- **Data Analysis on Bird Song Identification Accuracy**:
 
    <span style="display:inline-block; margin-left: 10px;">
-     <a href="https://colab.research.google.com/drive/1oUl9P_7iakkyDU6Ph9NYtEX2NTk1kzcX?usp=sharing">
+     <a href="https://colab.research.google.com/drive/1v62FB7Ndhnir04sYnL7f9g2WLZbNLtRQ?usp=sharing">
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
-   </span>: This notebook merges multiple CSV files containing bird song data into a single comprehensive dataframe. It adds appropriate columns for enhanced data organisation and analysis. The final dataframe is saved in both CSV and Excel formats, facilitating further data processing and sharing.
+   </span>: This notebook conducts a analysis of the accuracy of bird song identification using the BirdNET model. It includes various visualisations and statistical analyses such as ANOVA to assess the confidence scores of predictions, evaluate species detection across different transects, and examine species richness and correlation metrics.
 
 ## Analysing Your Audio Recordings
 To analyse your own audio recordings of bird songs:
