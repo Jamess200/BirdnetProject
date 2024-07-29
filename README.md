@@ -14,7 +14,7 @@ The BirdNET project uses an AI model to analyse bird songs and identify bird spe
 ## Using This Repository
 To use this repository:
 1. **Clone the Repository**:
-clone the repository to your local machine:
+Clone the repository to your local machine.
    ```sh
    git clone https://github.com/Jamess200/BirdnetProject
    cd BirdnetProject
@@ -29,7 +29,7 @@ The main tools for different stages of analysis and processing are provided as J
      <a href="n/a">
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
-   </span>:This notebook tests run times by processes random audio files to determin how long audio file of bird songs will take for the BirdNET AI to identify bird species from the bird songs and create the output DataFrame. It measures the efficiency of converting audio files into a usable format using BirdNET.
+   </span> This notebook tests run times by processes random audio files to determin how long audio file of bird songs will take for the BirdNET AI to identify bird species from the bird songs and create the output DataFrame. It measures the efficiency of converting audio files into a usable format using BirdNET.
 
 - **BirdNET Audio to CSV**:
 
@@ -37,10 +37,10 @@ The main tools for different stages of analysis and processing are provided as J
      <a href="https://colab.research.google.com/drive/1ofIgH6WYTRZxlmmCn-0VmR4ZYu8mSlAA?usp=sharing">
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
-   </span>:This notebook is primarily used for processing audio files with BirdNET to extract bird songs into a data CSV format. It serves as the main tool for converting audio inputs into structured data for analysis.
+   </span> This notebook is primarily used for processing audio files with BirdNET to extract bird songs into a data CSV format. It serves as the main tool for converting audio inputs into structured data for analysis.
 
 ## Analysing Your Audio Recordings
-To analyze your own audio recordings of bird songs:
+To analyse your own audio recordings of bird songs:
 1. **Upload Your Audio File to Google Colab**: 
 - You can upload your audio files directly to the Colab environment or use Google Drive to manage your files.
 - To mount Google Drive, use:
