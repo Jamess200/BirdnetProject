@@ -38,7 +38,15 @@ The main tools for different stages of analysis and processing are provided as J
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
    </span>: This notebook is used for processing audio files with the BirdNET model to extract bird song data into a CSV format. It serves as the primary tool for converting audio inputs into structured data, including information on identified bird species and confidence levels, for further analysis.
-   
+
+- **Merge Multiple CSV Files**:
+
+   <span style="display:inline-block; margin-left: 10px;">
+     <a href="add">
+       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
+     </a>
+   </span>: This notebook merges multiple CSV files containing bird song data into a single comprehensive dataframe. It adds appropriate columns for enhanced data organisation and analysis. The final dataframe is saved in both CSV and Excel formats, facilitating further data processing and sharing.
+
 ## Analysing Your Audio Recordings
 To analyse your own audio recordings of bird songs:
 1. **Upload Your Audio File to Google Colab**: 
