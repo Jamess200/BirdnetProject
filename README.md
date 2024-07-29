@@ -10,10 +10,22 @@ The BirdNET project uses an AI model to analyse bird songs and identify bird spe
 
 This project includes several Jupyter Notebooks for different stages of analysis and processing. You can explore the notebooks through the links below:
 
-1. [![Open In Colab](https://colab.research.google.com/drive/1ofIgH6WYTRZxlmmCn-0VmR4ZYu8mSlAA?usp=sharing): This notebook processes audio files and extracts data into a CSV format.
-2. **[Notebook 2 Name](https://colab.research.google.com/drive/your-notebook-id)**: Description of what this notebook does.
-3. **[Notebook 3 Name](https://colab.research.google.com/drive/your-notebook-id)**: Description of what this notebook does.
-4. **[Notebook 4 Name](https://colab.research.google.com/drive/your-notebook-id)**: Description of what this notebook does.
+1. **Time test**:
+
+   <span style="display:inline-block; margin-left: 10px;">
+     <a href="n/a">
+       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
+     </a>
+   </span>:
+   This notebook tests run times by processes random audio files to determin how long audio file take to be converted into a usabul format using birdnet
+
+2. **BirdNET Audio to CSV**:
+
+   <span style="display:inline-block; margin-left: 10px;">
+     <a href="https://colab.research.google.com/drive/1ofIgH6WYTRZxlmmCn-0VmR4ZYu8mSlAA?usp=sharing">
+       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
+     </a>
+   </span>: This notebook processes audio files and extracts data into a CSV format.
 
 
 ## Table of Contents
