@@ -4,7 +4,7 @@
 </div>
 
 ## Description
-The BirdNET project uses an AI model to analyse bird songs and identify bird species. Thies README provides instructions on how to use this repositiry.
+The BirdNET project uses an AI model to analyse bird songs and identify bird species. This README provides instructions on how to use this repository, along with descriptions of the scripts included and their functionalities.
 
 ## Notebooks
 
@@ -16,8 +16,7 @@ This project includes several Jupyter Notebooks for different stages of analysis
      <a href="n/a">
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
-   </span>:
-   This notebook tests run times by processes random audio files to determin how long audio file take to be converted into a usabul format using birdnet
+   </span>:This notebook tests run times by processes random audio files to determin how long audio file of bird songs will take for the ai to identify the birds and create the output dataframe?take to be converted into a usabul format using birdnet
 
 2. **BirdNET Audio to CSV**:
 
@@ -25,7 +24,7 @@ This project includes several Jupyter Notebooks for different stages of analysis
      <a href="https://colab.research.google.com/drive/1ofIgH6WYTRZxlmmCn-0VmR4ZYu8mSlAA?usp=sharing">
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
-   </span>: This notebook processes audio files and extracts data into a CSV format.
+   </span>:This notebook processes audio files and extracts data into a CSV format.
 
 
 ## Table of Contents
@@ -36,8 +35,8 @@ This project includes several Jupyter Notebooks for different stages of analysis
 
 ## Usage
 1. **Clone the Repository**
-First clone the repository to your local machine:
+clone the repository to your local machine:
    ```sh
-   git clone https://github.com/Jamess200/MyBirdNetTest
-   cd birdnet_project
+   git clone https://github.com/Jamess200/BirdnetProject
+   cd BirdnetProject
    ```
