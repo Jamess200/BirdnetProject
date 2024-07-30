@@ -83,6 +83,7 @@ Once your audio file is ready in Colab, proceed with using the relevant notebook
    2. **Convert Audio to CSV**:
 
     - This step is mandatory to convert your audio files into a structured CSV format using the BirdNET model. This notebook extracts bird species data from the recordings.
+
    - Steps:
       - Open the BirdNET Audio to CSV notebook.
       - Specify the file path for your audio file.
@@ -91,6 +92,7 @@ Once your audio file is ready in Colab, proceed with using the relevant notebook
    3. **Merge Multiple CSV Files**:
 
     - If you have multiple CSV files, this notebook will help you merge them into a single comprehensive dataframe. Even if you have only one CSV, you can use this notebook to ensure your CSV is in the correct format and to save it as an Excel file if required.
+
     - Steps:
       - Open the Merge Multiple CSV Files notebook.
       - Specify the paths of the CSV files.
@@ -99,6 +101,7 @@ Once your audio file is ready in Colab, proceed with using the relevant notebook
    4. **Conduct Data Analysis**:
 
     - Use this notebook to perform an in-depth analysis of the accuracy and reliability of bird species identification. This includes visualisations and statistical analyses such as ANOVA, species richness, and correlation metrics.
+    
     - Steps:
       - Open the Data Analysis on Bird Song Identification Accuracy notebook.
       - Use the CSV data generated from the BirdNET Audio to CSV notebook.
