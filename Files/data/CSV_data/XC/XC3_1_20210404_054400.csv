@@ -1,0 +1,559 @@
+common_name,scientific_name,start_time,end_time,confidence,label,filename
+European Robin,Erithacus rubecula,195.0,198.0,0.10350198298692703,Erithacus rubecula_European Robin,XC3_20210404_054400.wav
+Goldcrest,Regulus regulus,273.0,276.0,0.17583653330802917,Regulus regulus_Goldcrest,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,447.0,450.0,0.27152276039123535,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,555.0,558.0,0.11081594973802567,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,570.0,573.0,0.22106848657131195,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,570.0,573.0,0.10933314263820648,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,585.0,588.0,0.15521524846553802,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,585.0,588.0,0.12424895912408829,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,603.0,606.0,0.3355003595352173,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,606.0,609.0,0.3676042854785919,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,609.0,612.0,0.19168350100517273,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,615.0,618.0,0.1244535893201828,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,675.0,678.0,0.11245414614677429,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,684.0,687.0,0.12250213325023651,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,687.0,690.0,0.21033070981502533,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,912.0,915.0,0.10099607706069946,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,921.0,924.0,0.18848173320293427,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,948.0,951.0,0.1297799050807953,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,957.0,960.0,0.13363230228424072,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,975.0,978.0,0.1824628859758377,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,981.0,984.0,0.46315085887908936,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,990.0,993.0,0.3775669038295746,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,996.0,999.0,0.13489705324172974,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,999.0,1002.0,0.2497318834066391,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1008.0,1011.0,0.3534033000469208,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1026.0,1029.0,0.19807328283786774,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1305.0,1308.0,0.3186629116535187,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,1320.0,1323.0,0.20246264338493347,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,1422.0,1425.0,0.1428476870059967,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,1425.0,1428.0,0.30900147557258606,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,1428.0,1431.0,0.372334361076355,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,1431.0,1434.0,0.6579500436782837,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,1434.0,1437.0,0.23084130883216858,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1446.0,1449.0,0.3729313910007477,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1476.0,1479.0,0.22437947988510132,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,1503.0,1506.0,0.11095388233661652,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+European Robin,Erithacus rubecula,1572.0,1575.0,0.20357298851013184,Erithacus rubecula_European Robin,XC3_20210404_054400.wav
+Common Redstart,Phoenicurus phoenicurus,1587.0,1590.0,0.15141844749450684,Phoenicurus phoenicurus_Common Redstart,XC3_20210404_054400.wav
+European Robin,Erithacus rubecula,1590.0,1593.0,0.5375411510467529,Erithacus rubecula_European Robin,XC3_20210404_054400.wav
+Cetti's Warbler,Cettia cetti,1593.0,1596.0,0.14266057312488556,Cettia cetti_Cetti's Warbler,XC3_20210404_054400.wav
+European Robin,Erithacus rubecula,1596.0,1599.0,0.2296009063720703,Erithacus rubecula_European Robin,XC3_20210404_054400.wav
+European Robin,Erithacus rubecula,1611.0,1614.0,0.23147669434547424,Erithacus rubecula_European Robin,XC3_20210404_054400.wav
+Common Buzzard,Buteo buteo,1614.0,1617.0,0.10652294754981995,Buteo buteo_Common Buzzard,XC3_20210404_054400.wav
+Coal Tit,Periparus ater,1626.0,1629.0,0.10001543164253235,Periparus ater_Coal Tit,XC3_20210404_054400.wav
+European Robin,Erithacus rubecula,1638.0,1641.0,0.15548604726791382,Erithacus rubecula_European Robin,XC3_20210404_054400.wav
+Goldcrest,Regulus regulus,1644.0,1647.0,0.1609579622745514,Regulus regulus_Goldcrest,XC3_20210404_054400.wav
+European Robin,Erithacus rubecula,1659.0,1662.0,0.24497166275978088,Erithacus rubecula_European Robin,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1668.0,1671.0,0.18243294954299927,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1671.0,1674.0,0.17802377045154572,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1671.0,1674.0,0.15264104306697845,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+European Robin,Erithacus rubecula,1677.0,1680.0,0.2032683789730072,Erithacus rubecula_European Robin,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1677.0,1680.0,0.15753653645515442,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1686.0,1689.0,0.10978863388299942,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1689.0,1692.0,0.3003486692905426,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1692.0,1695.0,0.34973207116127014,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1701.0,1704.0,0.12557055056095123,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1704.0,1707.0,0.3852008283138275,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1707.0,1710.0,0.6575358510017395,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,1707.0,1710.0,0.10257340967655182,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1710.0,1713.0,0.1127006858587265,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1713.0,1716.0,0.22485369443893433,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1716.0,1719.0,0.9627051949501038,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1719.0,1722.0,0.28758710622787476,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1725.0,1728.0,0.16913627088069916,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1731.0,1734.0,0.8387518525123596,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1737.0,1740.0,0.13239997625350952,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1737.0,1740.0,0.13224370777606964,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1740.0,1743.0,0.3616054952144623,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1743.0,1746.0,0.2755112051963806,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1746.0,1749.0,0.21230138838291168,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1755.0,1758.0,0.13321959972381592,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1758.0,1761.0,0.5055519342422485,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1758.0,1761.0,0.10819176584482193,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1761.0,1764.0,0.22536948323249817,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1764.0,1767.0,0.42195767164230347,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1770.0,1773.0,0.2157263308763504,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1773.0,1776.0,0.23079928755760193,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1776.0,1779.0,0.5019224286079407,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1779.0,1782.0,0.8306111693382263,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1782.0,1785.0,0.43302300572395325,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1785.0,1788.0,0.3738485872745514,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1788.0,1791.0,0.19906401634216309,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1791.0,1794.0,0.21131597459316254,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1806.0,1809.0,0.20988978445529938,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1809.0,1812.0,0.5971740484237671,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackcap,Sylvia atricapilla,1809.0,1812.0,0.27260634303092957,Sylvia atricapilla_Eurasian Blackcap,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1812.0,1815.0,0.588790774345398,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1815.0,1818.0,0.8587759137153625,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Barn Swallow,Hirundo rustica,1815.0,1818.0,0.12288997322320938,Hirundo rustica_Barn Swallow,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1818.0,1821.0,0.48744574189186096,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1821.0,1824.0,0.636483907699585,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1824.0,1827.0,0.40207213163375854,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1827.0,1830.0,0.2786412239074707,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1830.0,1833.0,0.7091996669769287,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1836.0,1839.0,0.4393686056137085,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1839.0,1842.0,0.16449521481990814,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1839.0,1842.0,0.1565246284008026,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1845.0,1848.0,0.7346587181091309,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1848.0,1851.0,0.13937996327877045,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1851.0,1854.0,0.3564530909061432,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1869.0,1872.0,0.12658952176570892,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1872.0,1875.0,0.47467100620269775,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1875.0,1878.0,0.24803367257118225,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1878.0,1881.0,0.16603229939937592,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1881.0,1884.0,0.48374781012535095,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1884.0,1887.0,0.26238763332366943,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1887.0,1890.0,0.2689632177352905,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1890.0,1893.0,0.3114771842956543,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1893.0,1896.0,0.4544908106327057,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1896.0,1899.0,0.5510860681533813,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1896.0,1899.0,0.46664097905158997,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Fieldfare,Turdus pilaris,1896.0,1899.0,0.16136714816093445,Turdus pilaris_Fieldfare,XC3_20210404_054400.wav
+Spotted Flycatcher,Muscicapa striata,1899.0,1902.0,0.42724987864494324,Muscicapa striata_Spotted Flycatcher,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1905.0,1908.0,0.7626456022262573,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1905.0,1908.0,0.12050151824951172,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1917.0,1920.0,0.30514559149742126,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1917.0,1920.0,0.17137746512889862,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1920.0,1923.0,0.8436043858528137,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1920.0,1923.0,0.25497302412986755,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1926.0,1929.0,0.3626134991645813,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1926.0,1929.0,0.15735536813735962,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1929.0,1932.0,0.6524993777275085,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1932.0,1935.0,0.8699153661727905,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1935.0,1938.0,0.11760107427835464,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1938.0,1941.0,0.29916656017303467,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1941.0,1944.0,0.8618096113204956,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1950.0,1953.0,0.35483697056770325,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1953.0,1956.0,0.30308663845062256,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1959.0,1962.0,0.7026100754737854,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1965.0,1968.0,0.1264706701040268,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1971.0,1974.0,0.1524794101715088,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,1974.0,1977.0,0.11684837937355042,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1983.0,1986.0,0.27300402522087097,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1986.0,1989.0,0.21330486238002777,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1989.0,1992.0,0.2685680091381073,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1992.0,1995.0,0.19269715249538422,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,1998.0,2001.0,0.42019373178482056,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Green Woodpecker,Picus viridis,1998.0,2001.0,0.17761671543121338,Picus viridis_Eurasian Green Woodpecker,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2004.0,2007.0,0.6332879066467285,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2007.0,2010.0,0.7511489987373352,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2010.0,2013.0,0.8392666578292847,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Spotted Flycatcher,Muscicapa striata,2013.0,2016.0,0.327267587184906,Muscicapa striata_Spotted Flycatcher,XC3_20210404_054400.wav
+Spotted Flycatcher,Muscicapa striata,2019.0,2022.0,0.1517665833234787,Muscicapa striata_Spotted Flycatcher,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2028.0,2031.0,0.23481903970241547,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2031.0,2034.0,0.1676594763994217,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2031.0,2034.0,0.12581439316272736,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2034.0,2037.0,0.6212574243545532,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2052.0,2055.0,0.21382783353328705,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,2055.0,2058.0,0.24080437421798706,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2055.0,2058.0,0.1971740424633026,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2058.0,2061.0,0.26451176404953003,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2064.0,2067.0,0.5113142132759094,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2067.0,2070.0,0.14724768698215485,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2067.0,2070.0,0.14683541655540466,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2070.0,2073.0,0.1807747185230255,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2076.0,2079.0,0.10191073268651962,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2079.0,2082.0,0.3733327388763428,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,2079.0,2082.0,0.2283470332622528,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2112.0,2115.0,0.1956486850976944,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2115.0,2118.0,0.37092551589012146,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2118.0,2121.0,0.684012770652771,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2121.0,2124.0,0.2458864450454712,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2124.0,2127.0,0.2658654749393463,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2127.0,2130.0,0.3994829058647156,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2130.0,2133.0,0.7007060050964355,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2145.0,2148.0,0.13316842913627625,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2157.0,2160.0,0.635720431804657,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2160.0,2163.0,0.6401687264442444,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2163.0,2166.0,0.7882100939750671,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2166.0,2169.0,0.8264846801757812,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2169.0,2172.0,0.5934561491012573,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2187.0,2190.0,0.17932575941085815,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2190.0,2193.0,0.20114199817180634,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2196.0,2199.0,0.29808491468429565,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Common Grasshopper-Warbler,Locustella naevia,2196.0,2199.0,0.14938372373580933,Locustella naevia_Common Grasshopper-Warbler,XC3_20210404_054400.wav
+Common Buzzard,Buteo buteo,2205.0,2208.0,0.22158698737621307,Buteo buteo_Common Buzzard,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2220.0,2223.0,0.105892613530159,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2223.0,2226.0,0.11934520304203033,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Common Grasshopper-Warbler,Locustella naevia,2253.0,2256.0,0.11700224876403809,Locustella naevia_Common Grasshopper-Warbler,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2256.0,2259.0,0.1711999773979187,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Great Spotted Woodpecker,Dendrocopos major,2262.0,2265.0,0.10617707669734955,Dendrocopos major_Great Spotted Woodpecker,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2271.0,2274.0,0.1483938992023468,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Goldcrest,Regulus regulus,2274.0,2277.0,0.31823885440826416,Regulus regulus_Goldcrest,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2277.0,2280.0,0.13891081511974335,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2295.0,2298.0,0.21396851539611816,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2310.0,2313.0,0.3043367862701416,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2313.0,2316.0,0.10562242567539215,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Goldcrest,Regulus regulus,2316.0,2319.0,0.1294003278017044,Regulus regulus_Goldcrest,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2337.0,2340.0,0.13688869774341583,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Blackbird,Turdus merula,2358.0,2361.0,0.1482555866241455,Turdus merula_Eurasian Blackbird,XC3_20210404_054400.wav
+Eurasian Bullfinch,Pyrrhula pyrrhula,2361.0,2364.0,0.10938836634159088,Pyrrhula pyrrhula_Eurasian Bullfinch,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2364.0,2367.0,0.21893540024757385,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Green Woodpecker,Picus viridis,2367.0,2370.0,0.17476369440555573,Picus viridis_Eurasian Green Woodpecker,XC3_20210404_054400.wav
+Gray Wagtail,Motacilla cinerea,2385.0,2388.0,0.38880684971809387,Motacilla cinerea_Gray Wagtail,XC3_20210404_054400.wav
+Spotted Flycatcher,Muscicapa striata,2385.0,2388.0,0.17987680435180664,Muscicapa striata_Spotted Flycatcher,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2397.0,2400.0,0.7233115434646606,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2400.0,2403.0,0.822941243648529,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2403.0,2406.0,0.25025054812431335,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,2406.0,2409.0,0.19489026069641113,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,2415.0,2418.0,0.12016517668962479,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2436.0,2439.0,0.1353130340576172,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2439.0,2442.0,0.11888153105974197,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2442.0,2445.0,0.2877601981163025,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,2448.0,2451.0,0.22850428521633148,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2451.0,2454.0,0.5075953006744385,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2454.0,2457.0,0.5353672504425049,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2457.0,2460.0,0.13954845070838928,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2460.0,2463.0,0.18617543578147888,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2463.0,2466.0,0.7820454835891724,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2472.0,2475.0,0.16630840301513672,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2475.0,2478.0,0.444796621799469,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2478.0,2481.0,0.4839038550853729,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2478.0,2481.0,0.3141956925392151,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2481.0,2484.0,0.229331836104393,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2484.0,2487.0,0.6229692101478577,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2487.0,2490.0,0.39013031125068665,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2490.0,2493.0,0.11359619349241257,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2493.0,2496.0,0.14325156807899475,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2502.0,2505.0,0.1006365641951561,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2505.0,2508.0,0.4515213668346405,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2508.0,2511.0,0.1498926877975464,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2511.0,2514.0,0.11783678084611893,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2517.0,2520.0,0.26454323530197144,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2517.0,2520.0,0.11774963140487671,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2520.0,2523.0,0.5654318332672119,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2529.0,2532.0,0.1983906477689743,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2532.0,2535.0,0.5482676029205322,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2544.0,2547.0,0.14718163013458252,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2544.0,2547.0,0.13702644407749176,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,2550.0,2553.0,0.7105742692947388,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2562.0,2565.0,0.36597052216529846,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,2574.0,2577.0,0.12047133594751358,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,2580.0,2583.0,0.1415502279996872,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,2586.0,2589.0,0.12574312090873718,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2637.0,2640.0,0.30078181624412537,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2664.0,2667.0,0.3934671878814697,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2670.0,2673.0,0.9206202626228333,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2673.0,2676.0,0.4202311038970947,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2676.0,2679.0,0.8605952858924866,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2679.0,2682.0,0.7721801996231079,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Green Woodpecker,Picus viridis,2685.0,2688.0,0.18047119677066803,Picus viridis_Eurasian Green Woodpecker,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2694.0,2697.0,0.47017455101013184,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2697.0,2700.0,0.8235015869140625,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2700.0,2703.0,0.8340477347373962,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2703.0,2706.0,0.8891885876655579,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2706.0,2709.0,0.6954835653305054,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2727.0,2730.0,0.8490951061248779,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2730.0,2733.0,0.6836917400360107,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2733.0,2736.0,0.8763502836227417,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2736.0,2739.0,0.8368434309959412,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2739.0,2742.0,0.9255494475364685,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2742.0,2745.0,0.7947361469268799,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2757.0,2760.0,0.787081241607666,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2760.0,2763.0,0.6240025162696838,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2763.0,2766.0,0.6517265439033508,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2766.0,2769.0,0.8980324268341064,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2772.0,2775.0,0.11101751774549484,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2778.0,2781.0,0.11525364220142365,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2781.0,2784.0,0.11220277845859528,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,2784.0,2787.0,0.10289316624403,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2799.0,2802.0,0.89020836353302,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2802.0,2805.0,0.7152428030967712,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2805.0,2808.0,0.8523920178413391,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2808.0,2811.0,0.9351292848587036,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2811.0,2814.0,0.4879107177257538,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,2865.0,2868.0,0.11522418260574341,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Willow Warbler,Phylloscopus trochilus,2874.0,2877.0,0.10167689621448517,Phylloscopus trochilus_Willow Warbler,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,2886.0,2889.0,0.17967507243156433,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2889.0,2892.0,0.9196775555610657,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2892.0,2895.0,0.9331592321395874,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2898.0,2901.0,0.9837114214897156,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2901.0,2904.0,0.665187418460846,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2907.0,2910.0,0.9730386734008789,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2916.0,2919.0,0.9890425801277161,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2919.0,2922.0,0.887148380279541,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2925.0,2928.0,0.9931279420852661,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2934.0,2937.0,0.995919942855835,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2940.0,2943.0,0.9898809790611267,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2943.0,2946.0,0.9802632927894592,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2943.0,2946.0,0.44805678725242615,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2946.0,2949.0,0.9003866314888,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2949.0,2952.0,0.9952227473258972,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2949.0,2952.0,0.1686778962612152,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2952.0,2955.0,0.4943566918373108,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2967.0,2970.0,0.9657743573188782,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2970.0,2973.0,0.92399001121521,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2979.0,2982.0,0.9489523768424988,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2982.0,2985.0,0.9063546061515808,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2985.0,2988.0,0.808371901512146,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2988.0,2991.0,0.7703887820243835,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,2988.0,2991.0,0.11357424408197403,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,2994.0,2997.0,0.29644590616226196,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,2994.0,2997.0,0.20087739825248718,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,3000.0,3003.0,0.22416074573993683,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,3009.0,3012.0,0.1536574810743332,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,3012.0,3015.0,0.14126522839069366,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3021.0,3024.0,0.3356216251850128,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3024.0,3027.0,0.3843083679676056,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3027.0,3030.0,0.6819590330123901,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3030.0,3033.0,0.8391556739807129,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3033.0,3036.0,0.9532407522201538,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3036.0,3039.0,0.631894588470459,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3063.0,3066.0,0.26124855875968933,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3066.0,3069.0,0.8302077054977417,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3069.0,3072.0,0.5814977884292603,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3072.0,3075.0,0.7671507596969604,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3075.0,3078.0,0.6869822144508362,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3078.0,3081.0,0.31653180718421936,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3087.0,3090.0,0.35546040534973145,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3129.0,3132.0,0.6479188203811646,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3132.0,3135.0,0.1629757136106491,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3138.0,3141.0,0.19242709875106812,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3141.0,3144.0,0.22435292601585388,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3144.0,3147.0,0.41874226927757263,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3147.0,3150.0,0.1531929075717926,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3150.0,3153.0,0.2170734703540802,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3180.0,3183.0,0.5379126071929932,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3180.0,3183.0,0.2011791616678238,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3180.0,3183.0,0.16815948486328125,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3183.0,3186.0,0.1112239733338356,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3186.0,3189.0,0.37169212102890015,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3186.0,3189.0,0.12745420634746552,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3189.0,3192.0,0.10508852452039719,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3219.0,3222.0,0.28102973103523254,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3222.0,3225.0,0.3488176167011261,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3222.0,3225.0,0.1958845555782318,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3246.0,3249.0,0.12760332226753235,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3258.0,3261.0,0.4223175644874573,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3261.0,3264.0,0.40526121854782104,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3261.0,3264.0,0.37898126244544983,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3261.0,3264.0,0.1338508427143097,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3264.0,3267.0,0.20926465094089508,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3267.0,3270.0,0.3899460434913635,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3288.0,3291.0,0.11513926088809967,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3291.0,3294.0,0.16728714108467102,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3291.0,3294.0,0.10469918698072433,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3303.0,3306.0,0.1727479249238968,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3315.0,3318.0,0.4230715334415436,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3318.0,3321.0,0.7686306834220886,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3321.0,3324.0,0.8545752167701721,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3324.0,3327.0,0.8211599588394165,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3327.0,3330.0,0.636938214302063,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3327.0,3330.0,0.3584635555744171,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3330.0,3333.0,0.2948068380355835,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3330.0,3333.0,0.2826167345046997,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Great Spotted Woodpecker,Dendrocopos major,3333.0,3336.0,0.18953613936901093,Dendrocopos major_Great Spotted Woodpecker,XC3_20210404_054400.wav
+Great Spotted Woodpecker,Dendrocopos major,3357.0,3360.0,0.2676526606082916,Dendrocopos major_Great Spotted Woodpecker,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3363.0,3366.0,0.3397293984889984,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3375.0,3378.0,0.43737879395484924,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3375.0,3378.0,0.42293593287467957,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3375.0,3378.0,0.1573859304189682,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3378.0,3381.0,0.16176043450832367,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3387.0,3390.0,0.32056108117103577,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3387.0,3390.0,0.1094074621796608,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3393.0,3396.0,0.5913794636726379,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3396.0,3399.0,0.7886515259742737,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3396.0,3399.0,0.22831358015537262,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3399.0,3402.0,0.9603510499000549,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3402.0,3405.0,0.9405036568641663,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3402.0,3405.0,0.13757163286209106,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3405.0,3408.0,0.4856931269168854,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3429.0,3432.0,0.8622912168502808,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3432.0,3435.0,0.8405248522758484,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3435.0,3438.0,0.9762263894081116,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3438.0,3441.0,0.9186046123504639,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3441.0,3444.0,0.29107919335365295,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3441.0,3444.0,0.2562861144542694,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3441.0,3444.0,0.1013949066400528,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3444.0,3447.0,0.14425501227378845,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3459.0,3462.0,0.19932588934898376,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3462.0,3465.0,0.20053356885910034,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3471.0,3474.0,0.7737928628921509,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3474.0,3477.0,0.7896080017089844,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3477.0,3480.0,0.9030738472938538,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3480.0,3483.0,0.16135483980178833,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3486.0,3489.0,0.10089226812124252,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3513.0,3516.0,0.11800701916217804,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3525.0,3528.0,0.10983188450336456,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Carrion Crow,Corvus corone,3549.0,3552.0,0.15070141851902008,Corvus corone_Carrion Crow,XC3_20210404_054400.wav
+Eurasian Bullfinch,Pyrrhula pyrrhula,3552.0,3555.0,0.10006256401538849,Pyrrhula pyrrhula_Eurasian Bullfinch,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,3555.0,3558.0,0.1355632245540619,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,3558.0,3561.0,0.5207973122596741,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,3570.0,3573.0,0.41712114214897156,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Dunnock,Prunella modularis,3573.0,3576.0,0.1971023678779602,Prunella modularis_Dunnock,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,3582.0,3585.0,0.18158920109272003,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Wren,Troglodytes troglodytes,3594.0,3597.0,0.48817160725593567,Troglodytes troglodytes_Eurasian Wren,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3600.0,3603.0,0.17708395421504974,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3603.0,3606.0,0.2259625941514969,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3609.0,3612.0,0.5108289122581482,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3609.0,3612.0,0.3096790015697479,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3609.0,3612.0,0.17918598651885986,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3612.0,3615.0,0.41921451687812805,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3615.0,3618.0,0.236825630068779,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3615.0,3618.0,0.16972985863685608,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3618.0,3621.0,0.6653786301612854,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3621.0,3624.0,0.619937539100647,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3624.0,3627.0,0.6173587441444397,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3627.0,3630.0,0.162622332572937,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3627.0,3630.0,0.13436755537986755,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3636.0,3639.0,0.6395993828773499,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3642.0,3645.0,0.2682405412197113,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3645.0,3648.0,0.8685691952705383,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3648.0,3651.0,0.24089409410953522,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3651.0,3654.0,0.44526568055152893,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3654.0,3657.0,0.15365749597549438,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3654.0,3657.0,0.12271544337272644,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3657.0,3660.0,0.43086379766464233,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3660.0,3663.0,0.33237454295158386,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3663.0,3666.0,0.39413633942604065,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3669.0,3672.0,0.37662172317504883,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3672.0,3675.0,0.6295996308326721,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3675.0,3678.0,0.14458119869232178,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3675.0,3678.0,0.1234486773610115,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3678.0,3681.0,0.1423589438199997,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3684.0,3687.0,0.4326055645942688,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3687.0,3690.0,0.613518238067627,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3690.0,3693.0,0.556860625743866,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3693.0,3696.0,0.26782578229904175,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3696.0,3699.0,0.11429261416196823,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3711.0,3714.0,0.16479359567165375,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3714.0,3717.0,0.4975481331348419,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3723.0,3726.0,0.31156009435653687,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3729.0,3732.0,0.820809543132782,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3732.0,3735.0,0.40024039149284363,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3735.0,3738.0,0.6361835598945618,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3738.0,3741.0,0.8293002843856812,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3741.0,3744.0,0.2702436149120331,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3744.0,3747.0,0.2849580645561218,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3747.0,3750.0,0.16209609806537628,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3750.0,3753.0,0.546352744102478,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3750.0,3753.0,0.15214607119560242,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3753.0,3756.0,0.3250828683376312,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3756.0,3759.0,0.12602923810482025,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3759.0,3762.0,0.19747017323970795,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3762.0,3765.0,0.6333513855934143,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3765.0,3768.0,0.43188244104385376,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3768.0,3771.0,0.6577664613723755,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3768.0,3771.0,0.173457533121109,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3771.0,3774.0,0.36217525601387024,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3771.0,3774.0,0.25772055983543396,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3777.0,3780.0,0.13744503259658813,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3777.0,3780.0,0.10833856463432312,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3780.0,3783.0,0.23941293358802795,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3780.0,3783.0,0.2197282612323761,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3783.0,3786.0,0.2564661204814911,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3783.0,3786.0,0.11118283867835999,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3786.0,3789.0,0.3824733793735504,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3789.0,3792.0,0.2480807900428772,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3789.0,3792.0,0.12669745087623596,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3789.0,3792.0,0.11814440041780472,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3792.0,3795.0,0.2415904849767685,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3792.0,3795.0,0.19859784841537476,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3795.0,3798.0,0.3514546751976013,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,3795.0,3798.0,0.13539040088653564,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3804.0,3807.0,0.1782190352678299,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3804.0,3807.0,0.11935264617204666,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3807.0,3810.0,0.3896821439266205,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3813.0,3816.0,0.2756398320198059,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3819.0,3822.0,0.41712188720703125,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3822.0,3825.0,0.3741821348667145,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3822.0,3825.0,0.1749928593635559,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3825.0,3828.0,0.2636423408985138,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3828.0,3831.0,0.10618174076080322,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3834.0,3837.0,0.25294995307922363,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3840.0,3843.0,0.18072250485420227,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3843.0,3846.0,0.510921061038971,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3849.0,3852.0,0.6228545308113098,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3852.0,3855.0,0.5850415825843811,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Eurasian Treecreeper,Certhia familiaris,3864.0,3867.0,0.14580196142196655,Certhia familiaris_Eurasian Treecreeper,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3867.0,3870.0,0.21000617742538452,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3873.0,3876.0,0.13440370559692383,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3876.0,3879.0,0.27371323108673096,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3879.0,3882.0,0.23287920653820038,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3882.0,3885.0,0.4193727374076843,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3885.0,3888.0,0.3372333347797394,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3897.0,3900.0,0.22571226954460144,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3906.0,3909.0,0.1926606297492981,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3915.0,3918.0,0.10540400445461273,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3918.0,3921.0,0.2211819887161255,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3918.0,3921.0,0.22093284130096436,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3921.0,3924.0,0.3407636880874634,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3924.0,3927.0,0.4802006483078003,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3927.0,3930.0,0.4105457067489624,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3936.0,3939.0,0.20140837132930756,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3942.0,3945.0,0.1683391034603119,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3945.0,3948.0,0.8018429279327393,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3948.0,3951.0,0.2412901371717453,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3951.0,3954.0,0.5067806243896484,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,3954.0,3957.0,0.3041422665119171,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3954.0,3957.0,0.12384982407093048,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3957.0,3960.0,0.3681851923465729,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3966.0,3969.0,0.4768480658531189,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,3969.0,3972.0,0.22008676826953888,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,3990.0,3993.0,0.37699633836746216,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,4002.0,4005.0,0.4138925075531006,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,4002.0,4005.0,0.23601649701595306,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4005.0,4008.0,0.11339475214481354,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4014.0,4017.0,0.29440605640411377,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4017.0,4020.0,0.2135690599679947,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4023.0,4026.0,0.2158469408750534,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4026.0,4029.0,0.1925354152917862,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Nuthatch,Sitta europaea,4041.0,4044.0,0.633514940738678,Sitta europaea_Eurasian Nuthatch,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4050.0,4053.0,0.16269686818122864,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4065.0,4068.0,0.22101201117038727,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4068.0,4071.0,0.14845383167266846,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4071.0,4074.0,0.19085071980953217,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4074.0,4077.0,0.1415247619152069,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,4083.0,4086.0,0.16034530103206635,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4086.0,4089.0,0.10724660754203796,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4092.0,4095.0,0.1956435739994049,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4095.0,4098.0,0.12907730042934418,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4098.0,4101.0,0.11697397381067276,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4101.0,4104.0,0.2081972360610962,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4104.0,4107.0,0.13858655095100403,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4122.0,4125.0,0.21596255898475647,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Goldcrest,Regulus regulus,4122.0,4125.0,0.11826806515455246,Regulus regulus_Goldcrest,XC3_20210404_054400.wav
+European Robin,Erithacus rubecula,4125.0,4128.0,0.47707894444465637,Erithacus rubecula_European Robin,XC3_20210404_054400.wav
+Song Thrush,Turdus philomelos,4128.0,4131.0,0.30041858553886414,Turdus philomelos_Song Thrush,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4128.0,4131.0,0.10410969704389572,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+European Robin,Erithacus rubecula,4137.0,4140.0,0.10848155617713928,Erithacus rubecula_European Robin,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4143.0,4146.0,0.21175342798233032,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Mistle Thrush,Turdus viscivorus,4155.0,4158.0,0.6096736192703247,Turdus viscivorus_Mistle Thrush,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4176.0,4179.0,0.1898827999830246,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Great Spotted Woodpecker,Dendrocopos major,4176.0,4179.0,0.11499778181314468,Dendrocopos major_Great Spotted Woodpecker,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4179.0,4182.0,0.11785051226615906,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,4179.0,4182.0,0.10415952652692795,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4191.0,4194.0,0.21421541273593903,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4194.0,4197.0,0.5759071707725525,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Stock Dove,Columba oenas,4194.0,4197.0,0.10836883634328842,Columba oenas_Stock Dove,XC3_20210404_054400.wav
+Common House-Martin,Delichon urbicum,4197.0,4200.0,0.2021821290254593,Delichon urbicum_Common House-Martin,XC3_20210404_054400.wav
+Eurasian Bullfinch,Pyrrhula pyrrhula,4197.0,4200.0,0.12979760766029358,Pyrrhula pyrrhula_Eurasian Bullfinch,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,4209.0,4212.0,0.41482341289520264,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4212.0,4215.0,0.7110183238983154,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,4215.0,4218.0,0.4009391665458679,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4218.0,4221.0,0.34679824113845825,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,4218.0,4221.0,0.24262483417987823,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,4224.0,4227.0,0.5789902806282043,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,4227.0,4230.0,0.4277171492576599,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,4236.0,4239.0,0.8182384967803955,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,4239.0,4242.0,0.6791276335716248,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,4242.0,4245.0,0.35296860337257385,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4248.0,4251.0,0.2111649066209793,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Blue Tit,Cyanistes caeruleus,4251.0,4254.0,0.29112085700035095,Cyanistes caeruleus_Eurasian Blue Tit,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4254.0,4257.0,0.18791688978672028,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Eurasian Bullfinch,Pyrrhula pyrrhula,4260.0,4263.0,0.3929818868637085,Pyrrhula pyrrhula_Eurasian Bullfinch,XC3_20210404_054400.wav
+European Turtle-Dove,Streptopelia turtur,4275.0,4278.0,0.10742970556020737,Streptopelia turtur_European Turtle-Dove,XC3_20210404_054400.wav
+European Robin,Erithacus rubecula,4296.0,4299.0,0.2037433385848999,Erithacus rubecula_European Robin,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4311.0,4314.0,0.64388108253479,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+European Robin,Erithacus rubecula,4311.0,4314.0,0.13114525377750397,Erithacus rubecula_European Robin,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4317.0,4320.0,0.11580517143011093,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4320.0,4323.0,0.11925429105758667,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Long-tailed Tit,Aegithalos caudatus,4326.0,4329.0,0.15872091054916382,Aegithalos caudatus_Long-tailed Tit,XC3_20210404_054400.wav
+Great Spotted Woodpecker,Dendrocopos major,4350.0,4353.0,0.28011929988861084,Dendrocopos major_Great Spotted Woodpecker,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4350.0,4353.0,0.16559934616088867,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4353.0,4356.0,0.20347507297992706,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4359.0,4362.0,0.5619669556617737,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Common Wood-Pigeon,Columba palumbus,4362.0,4365.0,0.17742328345775604,Columba palumbus_Common Wood-Pigeon,XC3_20210404_054400.wav
+Great Spotted Woodpecker,Dendrocopos major,4383.0,4386.0,0.5275927782058716,Dendrocopos major_Great Spotted Woodpecker,XC3_20210404_054400.wav
