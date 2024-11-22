@@ -34,20 +34,20 @@ The main tools for different stages of analysis and processing are provided as J
 - **BirdNET Audio to CSV**:
 
    <span style="display:inline-block; margin-left: 10px;">
-     <a href="https://colab.research.google.com/drive/1ofIgH6WYTRZxlmmCn-0VmR4ZYu8mSlAA?usp=sharing">
+     <a href="https://colab.research.google.com/github/Jamess200/BirdnetProject/blob/main/Files/scripts/BirdNETAudio_To_CSV.ipynb">
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
-   </span>: This notebook is used for processing audio files with the BirdNET model to extract bird song data into a CSV format. It serves as the primary tool for converting audio inputs into structured data, including information on identified bird species and confidence levels, for further analysis.
+   </span>: This notebook is used for processing each trasects audio files indevidually with the BirdNET model to extract bird song data into a CSV format. It serves as the primary tool for converting audio inputs into structured tidy data, including identified bird species and confidence levels that can be used for further analysis.
 
-- **Merge Multiple CSV Files**:
+- **Testing BirdNET Accuracy**:
 
    <span style="display:inline-block; margin-left: 10px;">
-     <a href="https://colab.research.google.com/drive/1oUl9P_7iakkyDU6Ph9NYtEX2NTk1kzcX?usp=sharing">
+     <a href="https://colab.research.google.com/github/Jamess200/BirdnetProject/blob/main/Files/scripts/Bird_Accuracy.ipynb">
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
-   </span>: This notebook merges multiple CSV files containing bird song data into a single comprehensive dataframe. It adds appropriate columns for enhanced data organisation and analysis. The final dataframe is saved in both CSV and Excel formats, facilitating further data processing and sharing.
+   </span>: This notebook performs a comprehensive analysis of bird detection data from the BirdNET model, including preprocessing, statistical analysis (such as ANOVA), and generating visualisations like box plots, histograms, bar charts, and heatmaps to explore species detection trends, confidence scores, and species richness across transects.
 
-- **Data Analysis on Bird Song Identification Accuracy**:
+- **AI vs Human observations Confusion Matrices**:
 
    <span style="display:inline-block; margin-left: 10px;">
      <a href="https://colab.research.google.com/drive/1v62FB7Ndhnir04sYnL7f9g2WLZbNLtRQ?usp=sharing">
