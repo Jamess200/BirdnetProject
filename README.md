@@ -50,10 +50,10 @@ The main tools for different stages of analysis and processing are provided as J
 - **AI vs Human observations Confusion Matrices**:
 
    <span style="display:inline-block; margin-left: 10px;">
-     <a href="https://colab.research.google.com/drive/1v62FB7Ndhnir04sYnL7f9g2WLZbNLtRQ?usp=sharing">
+     <a href="https://colab.research.google.com/github/Jamess200/BirdnetProject/blob/main/Files/scripts/Main_AI_Human.ipynb">
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
-   </span>: This notebook conducts a analysis of the accuracy of bird song identification using the BirdNET model. It includes various visualisations and statistical analyses such as ANOVA to assess the confidence scores of predictions, evaluate species detection across different transects, and examine species richness and correlation metrics.
+   </span>: This notebook analyses the accuracy of bird song identification using the BirdNET model. It generates confusion matrices to compare AI-detected species against human observations for all and individual transects. The notebook also calculates metrics like sensitivity, specificity, and detection percentages, providing detailed insights into AI performance in species detection.
 
 ## Analysing Your Audio Recordings
 To analyse your own audio recordings of bird songs:
@@ -93,18 +93,21 @@ Once your audio file is ready in Colab, proceed with using the relevant notebook
 
    3. **Test BirdNET accuracy**:
 
-    - To test the accuracy of the BirdNET AI for you audio files run this notebook. 
+    - This notebook allows you to evaluate the accuracy of the BirdNET AI model for your audio files by analysing confidence scores, species detection frequency, and other metrics.
 
     - Steps:
-      - Open the Bird Accuracy notebook.
-      - Specify the paths of the CSV files.
-      - Run the cells to merge the data and save it in the desired format.
+      - Open the Bird Accuracy notebook in Colab.
+      - Specify the paths of the processed CSV files (e.g., transect_combined.csv).
+      - Run the notebook cells to conduct analyses such as:
+        - Visualizing confidence score distributions.
+        - Performing statistical analyses (e.g., ANOVA).
+        - Generating heatmaps and correlation metrics.
 
-   4. **Conduct Data Analysis**:
+   4. **AI vs Human Observations Analysis**:
 
-    - Use this notebook to perform an in-depth analysis of the accuracy and reliability of bird species identification. This includes visualisations and statistical analyses such as ANOVA, species richness, and correlation metrics.
+    - Use this notebook to analyze the accuracy of bird species identification by comparing AI-detected species to human observations. This includes generating confusion matrices, calculating metrics such as sensitivity and specificity, and evaluating detection percentages. Additional analyses include species richness and correlation metrics.
     
     - Steps:
-      - Open the Data Analysis on Bird Song Identification Accuracy notebook.
+      - Open the AI vs Human Observations Analysis notebook.
       - Use the CSV data generated from the BirdNET Audio to CSV notebook.
-      - Run the cells to perform the analysis.
+      - Run the cells to generate confusion matrices, calculate performance metrics, and analyse species detection.
