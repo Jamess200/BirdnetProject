@@ -26,10 +26,10 @@ The main tools for different stages of analysis and processing are provided as J
 - **Time test**:
 
    <span style="display:inline-block; margin-left: 10px;">
-     <a href="https://colab.research.google.com/drive/10y8z9R69SYeEwNFV_GL3peqUDjr_fUbY?usp=sharing">
+     <a href="https://colab.research.google.com/github/Jamess200/BirdnetProject/blob/main/Files/scripts/Drafts%26Preprocessing/BirdNET_Time_Test.ipynb">
        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="vertical-align: middle;"/>
      </a>
-   </span>: This notebook tests run times by processing random audio files to determine how long it takes for the BirdNET AI to identify bird species from the recordings and create the output DataFrame. It also includes an ANOVA analysis to evaluate the variability in processing times across different audio files, measuring the efficiency of converting audio files into a usable format using BirdNET.
+   </span>: This notebook evaluates the processing times for analysing audio recordings of bird songs using the BirdNET AI model. It tests the performance of the model by timing the analysis of multiple selected audio files, comparing processing times across different files, and identifying significant variability using a one-way ANOVA analysis. The notebook generates visualisations such as box plots to assess performance and stores the timing data in a structured CSV format for further analysis.
 
 - **BirdNET Audio to CSV**:
 
