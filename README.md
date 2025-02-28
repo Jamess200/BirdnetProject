@@ -18,7 +18,6 @@ This repository contains **Jupyter Notebooks** for **preprocessing, analysing, a
 - [Features](#features)
 - [Using This Repository](#using-this-repository)
 - [Analysing Your Audio Recordings](#analysing-your-audio-recordings)
-- [AI vs Human Observations](#ai-vs-human-observations)
 - [License](#license)
 
 ---
