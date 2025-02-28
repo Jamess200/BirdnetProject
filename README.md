@@ -8,16 +8,31 @@
 
 ---
 
-## Description
-The project uses an AI model called BirdNET to analyse bird songs and identify bird species. This README provides instructions on how to use this repository, along with descriptions of the scripts included and their functionalities for processing audio recordings and extracting relevant data.
+## 📌 **Overview**
+The **BirdNET Project** leverages an AI model to analyse **bird songs** and **identify species** from audio recordings.  
+This repository contains **Jupyter Notebooks** for **preprocessing, analysing, and evaluating bird song data**.
 
-## Table of Contents
-- [Using This Repository](#using-this-repository)
-- [Analysing Your Audio Recordings](#nalyzing-your-audio-recordings)
 
+## **Table of Contents**
+- [Overview](#-overview)
+- [Features](#-features)
+- [Using This Repository](#-using-this-repository)
+- [Analysing Your Audio Recordings](#-analysing-your-audio-recordings)
+- [AI vs Human Observations](#-ai-vs-human-observations)
+- [Contact](#-contact)
+
+---
+
+## **Features**
+- **Analyse bird songs using AI** (BirdNET Model)
+- **Process audio files into structured CSV data**
+- **Visualise detection trends with box plots, histograms, and heatmaps**
+- **Evaluate BirdNET accuracy using statistical analysis (ANOVA, Confusion Matrices)**
+- **Compare AI detection vs. human observations**
+
+---
 
 ## Using This Repository
-To use this repository:
 1. **Clone the Repository**:
 Clone the repository to your local machine.
    ```sh
@@ -116,3 +131,6 @@ Once your audio file is ready in Colab, proceed with using the relevant notebook
       - Open the AI vs Human Observations Analysis notebook.
       - Use the CSV data generated from the BirdNET Audio to CSV notebook.
       - Run the cells to generate confusion matrices, calculate performance metrics, and analyse species detection.
+     
+## **License**
+This project is licensed under the MIT License – feel free to use and modify!
