@@ -1,7 +1,12 @@
 <div align="center">
-  <h1>BirdNET Project</h1>
-  <p><img src="Files/img/bird_readme.png" alt="BirdNET Banner" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"></p>
+  <h1>BirdNET Project 🐦</h1>
+  <p>
+    <img src="Files/img/bird_readme.png" alt="BirdNET Banner" width="180px">
+  </p>
+  <p><b>AI-powered bird song analysis using BirdNET</b></p>
 </div>
+
+---
 
 ## Description
 The project uses an AI model called BirdNET to analyse bird songs and identify bird species. This README provides instructions on how to use this repository, along with descriptions of the scripts included and their functionalities for processing audio recordings and extracting relevant data.
