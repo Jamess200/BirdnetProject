@@ -8,17 +8,17 @@
 
 ---
 
-## 📌 **Overview**
+## **Overview**
 The **BirdNET Project** leverages an AI model to analyse **bird songs** and **identify species** from audio recordings.  
 This repository contains **Jupyter Notebooks** for **preprocessing, analysing, and evaluating bird song data**.
 
 
 ## **Table of Contents**
-- [Overview](#-overview)
-- [Features](#-features)
-- [Using This Repository](#-using-this-repository)
-- [Analysing Your Audio Recordings](#-analysing-your-audio-recordings)
-- [AI vs Human Observations](#-ai-vs-human-observations)
+- [Overview](overview)
+- [Features](features)
+- [Using This Repository](using-this-repository)
+- [Analysing Your Audio Recordings](analysing-your-audio-recordings)
+- [AI vs Human Observations](ai-vs-human-observations)
 - [Contact](#-contact)
 
 ---
